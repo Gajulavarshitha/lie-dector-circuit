@@ -1,1 +1,1 @@
-# lie-dector-circuit
+# lie-detector-circuit
